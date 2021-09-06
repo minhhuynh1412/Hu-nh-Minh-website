@@ -1,0 +1,25 @@
+.image {
+  width: 200px;
+  border-radius: 50%;
+}
+.font {
+  font-family: inherit;
+  font-size: 17px;
+}
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #0C7B93;
+  width: 4%;
+}
+h1 {
+  color: #0C7B93;
+}
+h3 {
+  color: #66BFBF;
+}
+body {
+  background-color: #EAF6F6;
+}
